@@ -1,0 +1,7 @@
+[
+{"imgSrc":"img/head/head1.jpg"},
+{"imgSrc":"img/head/head2.jpg"},
+{"imgSrc":"img/head/head3.jpg"},
+{"imgSrc":"img/head/head4.jpg"},
+{"imgSrc":"img/head/head5.jpg"},
+]
